@@ -1,3 +1,4 @@
 hogehoge
+hogehoge
 hoge
-hoge
+amend practice
